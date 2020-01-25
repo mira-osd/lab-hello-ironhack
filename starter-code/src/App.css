@@ -1,0 +1,30 @@
+.first {
+    background-color: #192236;
+    padding-top: 130px;
+    padding-left: 80px;
+}
+
+h1 {
+    color: white; 
+    font-size: 70px;
+
+}
+
+.description {
+    color: white; 
+    font-size: 22px;
+}
+
+.awesome {
+    background-color: white;
+    
+}
+
+.second {
+    display: flex;
+    justify-content: space-between;
+}
+
+p {
+    width: 120px;
+}
